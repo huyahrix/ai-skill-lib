@@ -20,11 +20,10 @@ https://oms.diginet.com.vn/knowledge_new/view/51584
 
 🔹 Thông tin phiên bản
 Version:
-1. HR-API ([Điền version cũ] -> [Điền version mới]): Đã thêm code mới
-2. HRP-UI ([Điền version cũ] -> [Điền version mới]): Đã thêm code mới
-3. HRM-UI ([Điền version cũ] -> [Điền version mới]): Đã thêm code mới
+1. HR-API: Đã thêm code mới
+2. HRP-UI: Đã thêm code mới
+3. HRM-UI: Đã thêm code mới
 
-Id: [Điền ID]
 Api: [Điền version API]
 Mobile App:
 - iOS: [Điền version iOS]

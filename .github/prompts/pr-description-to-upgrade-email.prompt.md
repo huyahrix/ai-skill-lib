@@ -42,6 +42,12 @@ Yêu cầu bắt buộc:
 - Chỉ trả về email hoàn chỉnh theo đúng mẫu bên dưới.
 - Không thêm lời mở đầu, không thêm tiêu đề ngoài email, không thêm giải thích.
 - Các thông tin chưa có trong input phải giữ nguyên placeholder để người dùng tự điền.
+- Bắt buộc giữ nguyên nguyên văn 2 dòng kết thư ở cuối:
+  Trân trọng.
+  NGOCHUY
+- Không được thêm bất kỳ dòng nào sau NGOCHUY.
+- Không được bỏ bất kỳ dòng nào trong mẫu email.
+- Không được thêm trường mới ngoài mẫu (ví dụ: Id, branch, version cũ/mới...) nếu mẫu không có.
 
 Mẫu email đầu ra:
 
@@ -55,11 +61,10 @@ https://oms.diginet.com.vn/knowledge_new/view/51584
 
 🔹 Thông tin phiên bản
 Version:
-1. HR-API ([Điền version cũ] -> [Điền version mới]): Đã thêm code mới
-2. HRP-UI ([Điền version cũ] -> [Điền version mới]): Đã thêm code mới
-3. HRM-UI ([Điền version cũ] -> [Điền version mới]): Đã thêm code mới
+1. HR-API: Đã thêm code mới
+2. HRP-UI: Đã thêm code mới
+3. HRM-UI: Đã thêm code mới
 
-Id: [Điền ID]
 Api: [Điền version API]
 Mobile App:
 - iOS: [Điền version iOS]
@@ -78,3 +83,5 @@ Mobile App:
 
 Trân trọng.
 NGOCHUY
+
+---
